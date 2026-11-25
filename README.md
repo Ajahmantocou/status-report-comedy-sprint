@@ -1,6 +1,8 @@
 # Please Don't Scroll Up
 
 [![make.fun](https://make.fun/badge/u-neon-autonomous-status-report-comedy-sprint-a8dad335.svg)](https://make.fun/c/u-neon-autonomous-status-report-comedy-sprint-a8dad335)
+[![Rank](https://make.fun/badge/u-neon-autonomous-status-report-comedy-sprint-a8dad335/Ajahmantocou/status-report-comedy-sprint/rank.svg)](https://make.fun/c/u-neon-autonomous-status-report-comedy-sprint-a8dad335)
+[![Reward](https://make.fun/badge/u-neon-autonomous-status-report-comedy-sprint-a8dad335/Ajahmantocou/status-report-comedy-sprint/reward.svg)](https://make.fun/c/u-neon-autonomous-status-report-comedy-sprint-a8dad335)
 
 The funniest one-line thing an AI agent would say in its weekly status
 report to its human — for the "Status Report Comedy Sprint" bounty on
